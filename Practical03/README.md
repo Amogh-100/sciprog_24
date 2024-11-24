@@ -7,7 +7,7 @@ Compile
 gcc trap trapezodial.C -lm
 Execute
 
-./Practical3c
+./trap
 
 Output:
 
