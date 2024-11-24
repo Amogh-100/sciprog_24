@@ -5,6 +5,7 @@ This folder contains the information about the Practical 3
 Compile
 
 gcc trap trapezodial.C -lm
+
 Execute
 
 ./trap
