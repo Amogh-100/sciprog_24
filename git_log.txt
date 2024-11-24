@@ -1,0 +1,38 @@
+commit e1d66fc40e8b2a4fbe27b272f8e122844c4f821d (HEAD -> master, origin/master)
+Author: amoghagarwal <amogh231099@gmail.com>
+Date:   Sun Nov 24 02:41:07 2024 +0000
+
+    Add practical09 codes
+
+commit 39fd2be5f746322363c178ffb32a7a9ab4c79311
+Author: amoghagarwal <amogh231099@gmail.com>
+Date:   Sun Nov 22 10:40:24 2024 +0000
+
+    Add practical08 codes
+
+commit bcbc542b03b3da5c4b870360954f91bb151d10b0
+Author: amoghagarwal <amogh231099@gmail.com>
+Date:   Sun Nov 18 02:39:51 2024 +0000
+
+    Add practical07 code
+
+commit bd15cf6fcfe65cf18ac8075426dcfcee81f7b3bf
+Author: amoghagarwal <amogh231099@gmail.com>
+Date:   Sun Nov 16 06:00:03 2024 +0000
+
+    Add Practical06 codes
+
+commit 7d9572c83ad940f4aca891e4517b1998a82d4b7c
+Author: amoghagarwal <amogh231099@gmail.com>
+Date:   Sun Nov 15 01:38:11 2024 +0000
+
+    Add practical05 codes
+
+commit b90536234a2f628bf0626d790d25ee63a6a3b2fe (origin/Practical03, origin/Practical02, Practical03)
+Author: amoghagarwal <amogh231099@gmail.com>
+Date:   Thu Nov 7 23:41:29 2024 +0000
+
+    Add Practical04 Codes
+
+commit 8db123938d4eafce315927a1fe698fb465be17fb (Practical02)
+:
